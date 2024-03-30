@@ -2,10 +2,4 @@
 
 repositório dedicado a testar e aprender sobre conceitos e assuntos relacionados ao front end no geral.
 
-<style>
-    h2 {
-        color: yellow;
-    }
-</style>
-
-<h2>HTML dentro do Markdown</h2>
+<h2 style="color: yellow; text-transform: uppercase;">HTML dentro do Markdown</h2>
